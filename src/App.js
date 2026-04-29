@@ -10,7 +10,7 @@ const defaultData = {
     bio: "Passionate about building scalable infrastructure and automating everything. I thrive in cloud environments and love bridging the gap between development and operations.",
     github: "https://github.com/mayankkohale",
     linkedin: "https://linkedin.com/in/mayankkohale",
-    email: "kohalemayank447@gmail.com",
+    email: "kohalemayank@gmail.com",
   },
   skills: [
     { id: 1, name: "Docker", level: 80, category: "Containers" },
